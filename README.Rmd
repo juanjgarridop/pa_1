@@ -1,0 +1,28 @@
+---
+output: github_document
+---
+
+# Test
+
+```{r}
+dur_hablo_stressed <- 0.527585
+dur_hablo_unstressed <- 0.506759
+dur_o_stressed <- 0.134874
+dur_o_unstressed <- 0.101
+int_o_stressed <- 73.55637680335181
+int_o_unstressed <- 74.50628946408305
+f0_o_stressed <- 112.79512002467438
+f0_o_unstressed <- 115.23178386187402
+```
+
+```{r}
+dur_hablo_stressed-dur_hablo_unstressed
+dur_o_stressed-dur_o_unstressed
+int_o_stressed-int_o_unstressed
+f0_o_stressed-f0_o_unstressed
+```
+
+Summary:
+
+The difference in ms between hablo stressed and unstressed is lower than the difference in ms between o stressed and o unstressed. 
+The difference in intensity between o stressed and o unstressed is -0.9499.
