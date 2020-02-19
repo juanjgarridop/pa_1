@@ -23,6 +23,5 @@ f0_o_stressed-f0_o_unstressed
 ```
 
 Summary:
-
 The difference in ms between hablo stressed and unstressed is lower than the difference in ms between o stressed and o unstressed. 
 The difference in intensity between o stressed and o unstressed is -0.9499.
